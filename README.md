@@ -1,7 +1,9 @@
 # Mentorness_
 
 ![image](https://github.com/user-attachments/assets/8cc3be12-83a3-44dc-b598-a54211cfb919)
-Data Analyst Internship
+
+###Data Analyst Internship
+
 Task Breakdown and Scoring:
 ## 1. Reels Task on SQLor Power BI(20 Marks) - Submission Deadline: Day 7 (21/07/2024):
 You will create original, 30-second to 1 minute video on topic received in email with voiceovers. Submit
