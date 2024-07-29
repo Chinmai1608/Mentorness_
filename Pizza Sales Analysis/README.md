@@ -84,8 +84,15 @@ Total_revenue - $817,860.05
 
 Average_revenue - $16.82
 
+## Links
+<a href="https://colab.research.google.com/drive/1SEi4NanKaepAx5K1-eJG-GEOulNSPBwK?usp=sharing" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="git" width="50" height="50"/></a> 
+<a href="https://github.com/Chinmai1608/Mentorness_/blob/main/Pizza%20Sales%20Analysis/Pizza%20Sales%20Analysis.sql" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="git" width="50" height="50"/></a>
+
+
 ### Dashboard
-<noscript><a href='https://public.tableau.com/views/PizzaSalesAnalysisMentorness/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link'><img alt='DATA ANALYSIS DASHBOARD ' src='https://github.com/user-attachments/assets/caec857b-6a2e-4506-9517-a31e157304d3' style='border: none' /></a></noscript>
+<noscript><a href='https://public.tableau.com/views/PizzaSalesAnalysisMentorness/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link'><img alt='DATA ANALYSIS DASHBOARD ' src='https://github.com/user-attachments/assets/e0c2713b-a835-43a5-8cfa-a1b4ba4143fd' style='border: none' /></a></noscript>
 
 
 
